@@ -29,7 +29,7 @@ A multilingual machine translation system built from scratch using custom datase
 ## 📦 Requirements
 
 - Python 3.8+  
-- PyTorch or TensorFlow  
+- PyTorch 
 - Hugging Face Transformers  
 - SentencePiece  
 - Jupyter Notebook
