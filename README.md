@@ -42,7 +42,7 @@ Open Create_Dataset.ipynb and generate your parallel corpora.
 Use scripts under Tokenizer/ to train or load your tokenizer.
 - Model Training
 Modify and run training scripts inside the Model/ directory.
-- Evaluation
+- Evaluation (To-do)
 Evaluate translation quality using BLEU, ROUGE, or other metrics.
 
 
