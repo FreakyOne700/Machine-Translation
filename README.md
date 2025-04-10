@@ -25,8 +25,6 @@ A multilingual machine translation system built from scratch using custom datase
 - Modular, customizable model architecture  
 - Easy integration and extension
 
----
->>>>>>> 6e7ec4c (Changes: Adding french dataset and editting readme)
 
 ## 📦 Requirements
 
@@ -35,7 +33,8 @@ A multilingual machine translation system built from scratch using custom datase
 - Hugging Face Transformers  
 - SentencePiece  
 - Jupyter Notebook
-<<<<<<< HEAD
+
+  
 ## 🚀 Getting Started
 - Create Dataset
 Open Create_Dataset.ipynb and generate your parallel corpora.
@@ -46,7 +45,7 @@ Modify and run training scripts inside the Model/ directory.
 - Evaluation
 Evaluate translation quality using BLEU, ROUGE, or other metrics.
 
-=======
+
 
 **Install dependencies:**
 
@@ -72,11 +71,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🧪 Example Outputs
-
-_Coming soon: Sample translations, performance benchmarks, and model weights._
-
----
 
 ## 🛠️ Future Enhancements
 
@@ -91,8 +85,3 @@ _Coming soon: Sample translations, performance benchmarks, and model weights._
 Feel free to fork this project, raise issues, or submit PRs. Let’s build something awesome together.
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
->>>>>>> 6e7ec4c (Changes: Adding french dataset and editting readme)
