@@ -1,31 +1,3 @@
-<<<<<<< HEAD
-🧠 Machine-Translation
-A multilingual machine translation system built from scratch using custom datasets, tokenizers, and models. The goal is to build a flexible and modular translation pipeline that can be easily extended to new languages and models.
-
-## 📁 Project Structure
-├── Datasets/               
-
-├──── spa(Example)          
-
-├── Model/           
-
-├──── MAIN.ipynb    # Main 
-
-├── Tokenizer/             
-
-├──── Create_Tokenizer.py
-
-├── Create_Dataset.ipynb    
-
-└── README.md                
-
-## 🔧 Features
-
- - Multilingual support (e.g., English ↔ French, English ↔ Spanish)
- - Custom tokenizer training (SentencePiece or other)
- - Clean dataset preprocessing pipeline
- - Easy integration and extension
-=======
 
 # 🧠 Machine-Translation
 
