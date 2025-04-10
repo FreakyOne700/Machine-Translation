@@ -2,13 +2,20 @@
 A multilingual machine translation system built from scratch using custom datasets, tokenizers, and models. The goal is to build a flexible and modular translation pipeline that can be easily extended to new languages and models.
 
 ## 📁 Project Structure
-├── Datasets/               # Preprocessed or raw language datasets  
-├──── spa(Example)          # Contain source -> target translations
-├── Model/                  # Model architecture and training scripts  
-├──── MAIN.ipynb            # Main 
-├── Tokenizer/              # Tokenizer scripts or configs (e.g., SentencePiece, BPE)  
+├── Datasets/               
+
+├──── spa(Example)          
+
+├── Model/           
+
+├──── MAIN.ipynb    # Main 
+
+├── Tokenizer/             
+
 ├──── Create_Tokenizer.py
-├── Create_Dataset.ipynb    # Jupyter notebook to create or preprocess datasets  
+
+├── Create_Dataset.ipynb    
+
 └── README.md                
 
 ## 🔧 Features
